@@ -1,6 +1,6 @@
 # Hi there! We're the Discount Devs!
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=discountdevs..github)
+### Glad to see you here! &nbsp; 
 
 We make ~~trashy~~ somewhat resonable quality projects!
 <br>
